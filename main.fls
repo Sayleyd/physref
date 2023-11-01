@@ -1467,6 +1467,7 @@ INPUT ./lib/Contenido.tex
 INPUT lib/Contenido.tex
 INPUT ./lib/Contenido.tex
 INPUT lib/Contenido.tex
+INPUT c:/Users/Denis/.texlive2022/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm
 INPUT c:/Users/Denis/.texlive2022/texmf-var/fonts/tfm/lh/lh-t2a/lati1200.tfm
 INPUT c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./fig//qubit_1.jpg
@@ -1532,6 +1533,10 @@ INPUT ./fig//tp.png
 INPUT fig//tp.png
 INPUT ./fig//tp.png
 INPUT ./fig//tp.png
+INPUT ./fig//3figure.jpg
+INPUT fig//3figure.jpg
+INPUT ./fig//3figure.jpg
+INPUT ./fig//3figure.jpg
 INPUT ./fig//lsqr.png
 INPUT fig//lsqr.png
 INPUT ./fig//lsqr.png
@@ -1540,10 +1545,10 @@ INPUT ./fig//bs5.png
 INPUT fig//bs5.png
 INPUT ./fig//bs5.png
 INPUT ./fig//bs5.png
-INPUT ./fig//3figure.jpg
-INPUT fig//3figure.jpg
-INPUT ./fig//3figure.jpg
-INPUT ./fig//3figure.jpg
+INPUT ./fig//rt.png
+INPUT fig//rt.png
+INPUT ./fig//rt.png
+INPUT ./fig//rt.png
 INPUT c:/Users/Denis/.texlive2022/texmf-var/fonts/tfm/lh/lh-t2a/larm1095.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
@@ -1581,6 +1586,7 @@ INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb
+INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb
 INPUT c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb

@@ -1,11 +1,12 @@
 # Fdb version 3
-["biber main"] 1698724699 "main.bcf" "main.bbl" "main" 1698724716
-  "main.bcf" 1698724716 106835 d3a95b33ec0442facf281bd0e2cc38cb "pdflatex"
+["biber main"] 1698775611 "main.bcf" "main.bbl" "main" 1698777254
+  "main.bcf" 1698777253 106835 d3a95b33ec0442facf281bd0e2cc38cb "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1698724713 "d:/Plantilla Lab fнsica/main.tex" "main.pdf" "main" 1698724716
+["pdflatex"] 1698777250 "d:/Plantilla Lab fнsica/main.tex" "main.pdf" "main" 1698777254
   "c:/Users/Denis/.texlive2022/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm" 1683829215 3300 6abb8e321227ead2a8e929e5abc72bd3 ""
+  "c:/Users/Denis/.texlive2022/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm" 1682890571 3308 eee81981029f67083258db36df06e523 ""
   "c:/Users/Denis/.texlive2022/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1666037344 3304 6a543c07045572737981351171e0505e ""
   "c:/Users/Denis/.texlive2022/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm" 1666096137 3312 d199be9bd555944e2403193d58a0256a ""
   "c:/Users/Denis/.texlive2022/texmf-var/fonts/tfm/lh/lh-t2a/larm0600.tfm" 1683841653 3248 f742b53dd94bcfe553bd3adb4ec70cf7 ""
@@ -66,6 +67,7 @@
   "c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb" 1666030049 32587 65067f817f408bc71a7312f3d9828a9b ""
   "c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1666030049 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
   "c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb" 1666030820 145408 bcd327f112f643a875638eafb48d1d8b ""
+  "c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb" 1666030820 140176 d0f50dba675c56d445f84a32c1f93a79 ""
   "c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb" 1666030820 135942 aecb5af344df420d6ec421db27dedf62 ""
   "c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb" 1666030820 139826 3796482349bae544f13f54da58f9706d ""
   "c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb" 1666030820 164227 41439fae96b3b30186924e9dd2fcff30 ""
@@ -318,16 +320,17 @@
   "fig//lsqr.png" 1698719596 20302 824519bc44239e360de8025b432df25e ""
   "fig//qcopy.png" 1698708152 10990 233c2fd1bfea93e07ee625ce074b3638 ""
   "fig//qubit_1.jpg" 1682876436 53104 8715b1a839523802db23b34e0d9fccc9 ""
+  "fig//rt.png" 1698773213 13744 72ff622e609f0a0dac4f3612f28323be ""
   "fig//tp.png" 1698710834 18322 a25c5b53ad584eb908fd257b6aec79e4 ""
-  "lib/Contenido.tex" 1698724710 118156 ab0859a00cf19a7b95b2e4ecc5a54631 ""
+  "lib/Contenido.tex" 1698777249 124630 08110e051c4b837cc255542ebc4352ad ""
   "lib/Lineamientos.tex" 1682969635 51 f4618eeb98e33eddca0da7cf4928e502 ""
   "lib/config.tex" 1698686461 1545 1f4b721d997bd1c6798ef73a3ceec307 ""
-  "lib/preambulo.tex" 1698702054 1209 8bb2f16fa2016b808110e6556113b8e2 ""
-  "lib/resumen.tex" 1698714712 1093 162fe194cc3cde244526071e75154907 ""
-  "main.aux" 1698724716 799 0b07cfecd9c65f82cbb4fe50c5259d28 "pdflatex"
-  "main.bbl" 1698724701 486 ee04f40f768daeed26442158e95aba61 "biber main"
+  "lib/preambulo.tex" 1698777115 1218 04d0421c110ce619c5a839e65fa63544 ""
+  "lib/resumen.tex" 1698773496 1170 3a4f3fe2227c5d2ec9bb3597e25e53c4 ""
+  "main.aux" 1698777253 799 f602dd3a71fdf6be96beacbedcc99729 "pdflatex"
+  "main.bbl" 1698775613 486 ee04f40f768daeed26442158e95aba61 "biber main"
   "main.out" 0 -1 0 "pdflatex"
-  "main.run.xml" 1698724716 2301 4dd2f14bc41172f953647991a9202192 "pdflatex"
+  "main.run.xml" 1698777253 2301 4dd2f14bc41172f953647991a9202192 "pdflatex"
   "main.tex" 1682876436 214 56c1fc80fe7c06acc8e06dab3f1312d0 ""
   (generated)
   "main.aux"

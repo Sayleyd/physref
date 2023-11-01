@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.17)  31 OCT 2023 07:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.17)  31 OCT 2023 22:34
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1490,157 +1490,167 @@ Non-PDF special ignored!
 
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./fig//Escudo_UD.png>] [2]
-<fig//qubit_1.jpg, id=33, 641.39626pt x 618.31pt>
+<fig//qubit_1.jpg, id=47, 641.39626pt x 618.31pt>
 File: fig//qubit_1.jpg Graphic file (type jpg)
 <use fig//qubit_1.jpg>
-Package pdftex.def Info: fig//qubit_1.jpg  used on input line 46.
+Package pdftex.def Info: fig//qubit_1.jpg  used on input line 66.
 (pdftex.def)             Requested size: 128.27698pt x 123.6598pt.
-<fig//Bloch_sphere.png, id=34, 1284.8pt x 1366.10374pt>
+<fig//Bloch_sphere.png, id=48, 1284.8pt x 1366.10374pt>
 File: fig//Bloch_sphere.png Graphic file (type png)
 <use fig//Bloch_sphere.png>
-Package pdftex.def Info: fig//Bloch_sphere.png  used on input line 69.
+Package pdftex.def Info: fig//Bloch_sphere.png  used on input line 89.
 (pdftex.def)             Requested size: 192.71169pt x 204.90672pt.
 
-Overfull \hbox (47.60115pt too wide) in paragraph at lines 69--70
+Overfull \hbox (47.60115pt too wide) in paragraph at lines 89--90
 [][]  
  []
 
-[3 <./fig//qubit_1.jpg> <./fig//Bloch_sphere.png>] [4]
-<fig//Hadamard.png, id=55, 397.485pt x 882.29625pt>
+[3 <./fig//qubit_1.jpg> <./fig//Bloch_sphere.png>] [4] [5]
+<fig//Hadamard.png, id=81, 397.485pt x 882.29625pt>
 File: fig//Hadamard.png Graphic file (type png)
 <use fig//Hadamard.png>
-Package pdftex.def Info: fig//Hadamard.png  used on input line 198.
+Package pdftex.def Info: fig//Hadamard.png  used on input line 218.
 (pdftex.def)             Requested size: 218.61742pt x 485.26443pt.
 
-Overfull \hbox (73.50688pt too wide) in paragraph at lines 198--199
+Overfull \hbox (73.50688pt too wide) in paragraph at lines 218--219
 [][]  
  []
 
-[5]
-<fig//Qgates.png, id=66, 944.7797pt x 242.40562pt>
+<fig//Qgates.png, id=82, 944.7797pt x 242.40562pt>
 File: fig//Qgates.png Graphic file (type png)
 <use fig//Qgates.png>
-Package pdftex.def Info: fig//Qgates.png  used on input line 209.
+Package pdftex.def Info: fig//Qgates.png  used on input line 229.
 (pdftex.def)             Requested size: 236.19434pt x 60.60124pt.
 
-Overfull \hbox (91.0838pt too wide) in paragraph at lines 209--210
+Overfull \hbox (91.0838pt too wide) in paragraph at lines 229--230
 [][]  
  []
 
 [6 <./fig//Hadamard.png> <./fig//Qgates.png>]
-<fig//FiveQ.png, id=78, 696.35156pt x 341.77687pt>
+<fig//FiveQ.png, id=91, 696.35156pt x 341.77687pt>
 File: fig//FiveQ.png Graphic file (type png)
 <use fig//FiveQ.png>
-Package pdftex.def Info: fig//FiveQ.png  used on input line 249.
+Package pdftex.def Info: fig//FiveQ.png  used on input line 269.
 (pdftex.def)             Requested size: 243.72668pt x 119.62369pt.
 
-Overfull \hbox (98.61615pt too wide) in paragraph at lines 249--250
+Overfull \hbox (98.61615pt too wide) in paragraph at lines 269--270
 [][]  
  []
 
-[7 <./fig//FiveQ.png>]
-<fig//cir.png, id=87, 319.1925pt x 85.82062pt>
+[7 <./fig//FiveQ.png>] [8]
+<fig//cir.png, id=109, 319.1925pt x 85.82062pt>
 File: fig//cir.png Graphic file (type png)
 <use fig//cir.png>
-Package pdftex.def Info: fig//cir.png  used on input line 346.
+Package pdftex.def Info: fig//cir.png  used on input line 366.
 (pdftex.def)             Requested size: 248.96913pt x 66.93979pt.
 
-Overfull \hbox (103.8586pt too wide) in paragraph at lines 346--347
+Overfull \hbox (103.8586pt too wide) in paragraph at lines 366--367
 [][]  
  []
 
-[8]
-<fig//cug.png, id=96, 127.97812pt x 119.69719pt>
+[9 <./fig//cir.png>]
+<fig//cug.png, id=117, 127.97812pt x 119.69719pt>
 File: fig//cug.png Graphic file (type png)
 <use fig//cug.png>
-Package pdftex.def Info: fig//cug.png  used on input line 373.
+Package pdftex.def Info: fig//cug.png  used on input line 393.
 (pdftex.def)             Requested size: 115.17923pt x 107.72646pt.
-<fig//cnotg.png, id=97, 280.04625pt x 90.3375pt>
+<fig//cnotg.png, id=118, 280.04625pt x 90.3375pt>
 File: fig//cnotg.png Graphic file (type png)
 <use fig//cnotg.png>
-Package pdftex.def Info: fig//cnotg.png  used on input line 379.
+Package pdftex.def Info: fig//cnotg.png  used on input line 399.
 (pdftex.def)             Requested size: 252.03928pt x 81.30298pt.
 
-Overfull \hbox (106.92874pt too wide) in paragraph at lines 379--380
+Overfull \hbox (106.92874pt too wide) in paragraph at lines 399--400
 [][]  
  []
 
-<fig//Mg.png, id=98, 197.23688pt x 57.21375pt>
+<fig//Mg.png, id=119, 197.23688pt x 57.21375pt>
 File: fig//Mg.png Graphic file (type png)
 <use fig//Mg.png>
-Package pdftex.def Info: fig//Mg.png  used on input line 390.
+Package pdftex.def Info: fig//Mg.png  used on input line 410.
 (pdftex.def)             Requested size: 177.51152pt x 51.49188pt.
 
-Overfull \hbox (32.40099pt too wide) in paragraph at lines 390--391
+Overfull \hbox (32.40099pt too wide) in paragraph at lines 410--411
 [][]  
  []
 
-[9 <./fig//cir.png> <./fig//cug.png> <./fig//cnotg.png> <./fig//Mg.png>]
-<fig//qcopy.png, id=107, 507.39563pt x 112.92188pt>
+<fig//qcopy.png, id=120, 507.39563pt x 112.92188pt>
 File: fig//qcopy.png Graphic file (type png)
 <use fig//qcopy.png>
-Package pdftex.def Info: fig//qcopy.png  used on input line 421.
+Package pdftex.def Info: fig//qcopy.png  used on input line 441.
 (pdftex.def)             Requested size: 228.32593pt x 50.81436pt.
 
-Overfull \hbox (83.2154pt too wide) in paragraph at lines 421--422
+Overfull \hbox (83.2154pt too wide) in paragraph at lines 441--442
 [][]  
  []
 
-[10 <./fig//qcopy.png>]
-<fig//bell.png, id=119, 475.7775pt x 149.8097pt>
+[10 <./fig//cug.png> <./fig//cnotg.png> <./fig//Mg.png> <./fig//qcopy.png>]
+<fig//bell.png, id=132, 475.7775pt x 149.8097pt>
 File: fig//bell.png Graphic file (type png)
 <use fig//bell.png>
-Package pdftex.def Info: fig//bell.png  used on input line 470.
+Package pdftex.def Info: fig//bell.png  used on input line 490.
 (pdftex.def)             Requested size: 237.88815pt x 74.90465pt.
 
-Overfull \hbox (92.77762pt too wide) in paragraph at lines 470--471
+Overfull \hbox (92.77762pt too wide) in paragraph at lines 490--491
 [][]  
  []
 
-<fig//tp.png, id=120, 558.58687pt x 166.37157pt>
+[11 <./fig//bell.png>]
+<fig//tp.png, id=146, 558.58687pt x 166.37157pt>
 File: fig//tp.png Graphic file (type png)
 <use fig//tp.png>
-Package pdftex.def Info: fig//tp.png  used on input line 509.
-(pdftex.def)             Requested size: 279.29276pt x 83.18556pt.
+Package pdftex.def Info: fig//tp.png  used on input line 529.
+(pdftex.def)             Requested size: 251.36177pt x 74.8665pt.
 
-Overfull \hbox (134.18222pt too wide) in paragraph at lines 509--510
+Overfull \hbox (106.25124pt too wide) in paragraph at lines 529--530
 [][]  
  []
 
-[11 <./fig//bell.png> <./fig//tp.png>] [12] [13]
-<fig//lsqr.png, id=153, 562.35094pt x 176.15813pt>
-File: fig//lsqr.png Graphic file (type png)
-<use fig//lsqr.png>
-Package pdftex.def Info: fig//lsqr.png  used on input line 653.
-(pdftex.def)             Requested size: 253.05557pt x 79.27042pt.
-
-Overfull \hbox (107.94504pt too wide) in paragraph at lines 653--654
-[][]  
- []
-
-[14 <./fig//lsqr.png>]
-<fig//bs5.png, id=160, 352.31625pt x 104.64093pt>
-File: fig//bs5.png Graphic file (type png)
-<use fig//bs5.png>
-Package pdftex.def Info: fig//bs5.png  used on input line 688.
-(pdftex.def)             Requested size: 229.00284pt x 68.01578pt.
-
-Overfull \hbox (83.8923pt too wide) in paragraph at lines 688--689
-[][]  
- []
-
-[15 <./fig//bs5.png>] [16] [17]
-<fig//3figure.jpg, id=191, 1511.6475pt x 774.895pt>
+[12 <./fig//tp.png>] [13]
+<fig//3figure.jpg, id=168, 1511.6475pt x 774.895pt>
 File: fig//3figure.jpg Graphic file (type jpg)
 <use fig//3figure.jpg>
-Package pdftex.def Info: fig//3figure.jpg  used on input line 830.
+Package pdftex.def Info: fig//3figure.jpg  used on input line 639.
 (pdftex.def)             Requested size: 249.41107pt x 127.85216pt.
 
-Overfull \hbox (104.30054pt too wide) in paragraph at lines 830--831
+Overfull \hbox (104.30054pt too wide) in paragraph at lines 639--640
 [][]  
  []
 
-[18 <./fig//3figure.jpg>]) (./lib/Lineamientos.tex) [19] (./main.aux)
+[14 <./fig//3figure.jpg>] [15]
+<fig//lsqr.png, id=186, 562.35094pt x 176.15813pt>
+File: fig//lsqr.png Graphic file (type png)
+<use fig//lsqr.png>
+Package pdftex.def Info: fig//lsqr.png  used on input line 734.
+(pdftex.def)             Requested size: 253.05557pt x 79.27042pt.
+
+Overfull \hbox (107.94504pt too wide) in paragraph at lines 734--735
+[][]  
+ []
+
+[16 <./fig//lsqr.png>]
+<fig//bs5.png, id=192, 352.31625pt x 104.64093pt>
+File: fig//bs5.png Graphic file (type png)
+<use fig//bs5.png>
+Package pdftex.def Info: fig//bs5.png  used on input line 769.
+(pdftex.def)             Requested size: 229.00284pt x 68.01578pt.
+
+Overfull \hbox (83.8923pt too wide) in paragraph at lines 769--770
+[][]  
+ []
+
+[17 <./fig//bs5.png>] [18]
+<fig//rt.png, id=218, 478.03593pt x 97.11281pt>
+File: fig//rt.png Graphic file (type png)
+<use fig//rt.png>
+Package pdftex.def Info: fig//rt.png  used on input line 907.
+(pdftex.def)             Requested size: 239.01738pt x 48.55627pt.
+
+Overfull \hbox (93.90685pt too wide) in paragraph at lines 907--908
+[][]  
+ []
+
+[19 <./fig//rt.png>]) (./lib/Lineamientos.tex) [20] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -1648,18 +1658,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46884 strings out of 475071
- 1061409 string characters out of 5782907
- 2187000 words of memory out of 5000000
- 67456 multiletter control sequences out of 15000+600000
- 490870 words of font info for 80 fonts, out of 8000000 for 9000
+ 46921 strings out of 475071
+ 1061816 string characters out of 5782907
+ 2188001 words of memory out of 5000000
+ 67467 multiletter control sequences out of 15000+600000
+ 491689 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,19n,108p,1272b,1677s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on main.pdf (19 pages, 1010758 bytes).
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
+Output written on main.pdf (20 pages, 1049340 bytes).
 PDF statistics:
- 342 PDF objects out of 1000 (max. 8388607)
- 239 compressed objects within 3 object streams
- 84 named destinations out of 1000 (max. 500000)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 380 PDF objects out of 1000 (max. 8388607)
+ 272 compressed objects within 3 object streams
+ 108 named destinations out of 1000 (max. 500000)
+ 98 words of extra memory for PDF output out of 10000 (max. 10000000)
 
